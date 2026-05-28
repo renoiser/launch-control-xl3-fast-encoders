@@ -1,4 +1,4 @@
-# LaunchControlXL3 Fast Encoders
+# Launch Control XL3 Fast Encoders script
 
 Custom Ableton Live 12 MIDI Remote Script for the Novation Launch Control XL 3.
 
