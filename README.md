@@ -12,9 +12,9 @@ ENCODER_MAPPING_SENSITIVITY = 3.0
 
 Lower values are more precise. Higher values are faster.
 
-- `1.0`: stock/default speed
-- `2.0`: faster but still controlled
-- `3.0`: aggressive, good for quick sweeps
+- `1.0`: stock/default slow speed
+- `2.0`: faster and controlled
+- `3.0`: good for quick sweeps
 - `5.0`: extreme
 
 Floating point values such as `2.5` are allowed.
